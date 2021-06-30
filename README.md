@@ -1,10 +1,10 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
+### [Aplikasi Perekaman Data Laptop](http://perekamanleptop.herokuapp.com/) klik
+### [Diagram dan penjelasan](https://drive.google.com/file/d/1snWbWl8GuWfZbb5RDJDu5Gsa27Y-RDds/view?usp=sharing) klik
 #### By
 - Nama  : Titis Eka Setyawati
 - NIM   : 18090049
 - Kelas : 6B
-- Link Laporan : https://drive.google.com/file/d/1snWbWl8GuWfZbb5RDJDu5Gsa27Y-RDds/view?usp=sharing
+
 #### Tools
 - Laravel       : Framework PHP
 - Bootstrap     : Framework CSS
