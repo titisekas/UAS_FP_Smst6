@@ -4,6 +4,7 @@
 - Nama  : Titis Eka Setyawati
 - NIM   : 18090049
 - Kelas : 6B
+- Link Laporan : https://drive.google.com/file/d/1snWbWl8GuWfZbb5RDJDu5Gsa27Y-RDds/view?usp=sharing
 #### Tools
 - Laravel       : Framework PHP
 - Bootstrap     : Framework CSS
